@@ -12,7 +12,7 @@ sections:
     padding_bottom: large
     background_color: primary
     background_image: /images/DJI_0129.JPG
-    background_image_opacity: 15
+    background_image_opacity: 55
     background_image_size: cover
   - type: grid_section
     grid_items:
