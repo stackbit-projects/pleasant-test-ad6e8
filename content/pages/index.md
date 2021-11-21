@@ -115,7 +115,7 @@ sections:
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
     grid_items:
-      - title: Eric Widget
+      - title: Eric WidgetFra
         subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
