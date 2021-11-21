@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Vulcano Summer School
-    subtitle: Conference for Creative People
+    subtitle: Summer 2022
     content: '**April 14 - 16, 2021**'
     actions:
       - label: Get Your Ticket Today!
