@@ -67,7 +67,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
           elit at nibh ultrices, molestie ullamcorper leo sodales. Vehicula ut
           ipsum sed sodales. Integer finibus scelerisque leo et semper.
-        image: /images/DJI_0469.JPG
+        image: /images/IMG_20190613_112044.jpg
         image_alt: Feature 1 placeholder image
         media_position: right
         media_width: sixty
