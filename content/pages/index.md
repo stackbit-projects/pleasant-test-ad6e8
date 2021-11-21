@@ -123,7 +123,7 @@ sections:
 
 
           **[Twitter](https://twitter.com/)**
-        image: images/avatar_1.jpg
+        image: /images/photo_2019-09-13_12-44-35.jpg
         image_alt: Speaker 1 photo
         image_position: top
       - title: Laurenz Thomsen
