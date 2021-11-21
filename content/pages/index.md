@@ -116,7 +116,7 @@ sections:
     subtitle: Fantastic lineup of experts!
     grid_items:
       - title: Frank Sohl
-        subtitle: 'React Awesome, USA'
+        subtitle: DLR
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
           scelerisque interdum ante. Duis tincidunt id purus sit amet malesuada.
