@@ -4,7 +4,8 @@ sections:
   - type: hero_section
     title: Vulcano Summer School
     subtitle: Summer 2022
-    content: '**April 14 - 16, 2021**'
+    content: |
+      **June 2022**
     actions: []
     align: center
     padding_top: large
