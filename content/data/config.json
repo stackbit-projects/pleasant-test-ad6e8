@@ -27,7 +27,8 @@
                 "url": "/thank-you",
                 "style": "primary"
             }
-        ]
+        ],
+        "logo_alt": "l"
     },
     "footer": {
         "has_primary_nav": false,
