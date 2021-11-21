@@ -115,7 +115,7 @@ sections:
     title: Speakers & Instructors
     subtitle: Fantastic lineup of experts!
     grid_items:
-      - title: Eric WidgetFra
+      - title: Frank Sohl
         subtitle: 'React Awesome, USA'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
