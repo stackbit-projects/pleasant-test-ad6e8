@@ -5,10 +5,7 @@ sections:
     title: Vulcano Summer School
     subtitle: Summer 2022
     content: '**April 14 - 16, 2021**'
-    actions:
-      - label: Get Your Ticket Today!
-        url: /about
-        style: primary
+    actions: []
     align: center
     padding_top: large
     padding_bottom: large
