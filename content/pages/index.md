@@ -126,7 +126,7 @@ sections:
         image: images/avatar_1.jpg
         image_alt: Speaker 1 photo
         image_position: top
-      - title: Parsley Montana
+      - title: Laurenz Thomsen
         subtitle: 'The Studio, Distributed, Estonia'
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc
