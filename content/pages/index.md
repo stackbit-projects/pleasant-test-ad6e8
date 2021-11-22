@@ -405,7 +405,7 @@ sections:
           vehicula ut ipsum sed sodales. Integer finibus scelerisque leo et
           semper.
         content_align: left
-      - title: What payment types do you accept?
+      - title: What costs are involved ?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
