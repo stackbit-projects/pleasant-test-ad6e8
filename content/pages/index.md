@@ -381,7 +381,7 @@ sections:
     title: Frequently Asked Questions
     subtitle: Our vision
     grid_items:
-      - title: How can I get to the venue?
+      - title: Is there funding ?
         title_align: left
         content: >-
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec aliquet
